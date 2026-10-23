@@ -5,92 +5,107 @@
       "name": "StudyOS",
       "url": "https://study-os-fmhl-git-main-personal-ffe1.vercel.app",
       "status": "Operational",
-      "latency": 1162,
-      "uptime": "94.1",
+      "latency": 1489,
+      "uptime": "100.0",
       "history": [
         {
-          "timestamp": "01:06:57 AM",
-          "latency": 1111,
+          "timestamp": "01:28:42 AM",
+          "latency": 938,
           "status": "Operational"
         },
         {
-          "timestamp": "01:07:00 AM",
-          "latency": 522,
+          "timestamp": "01:29:01 AM",
+          "latency": 1211,
           "status": "Operational"
         },
         {
-          "timestamp": "01:08:00 AM",
-          "latency": 751,
+          "timestamp": "01:30:00 AM",
+          "latency": 755,
           "status": "Operational"
         },
         {
-          "timestamp": "01:09:01 AM",
-          "latency": 1303,
+          "timestamp": "01:31:00 AM",
+          "latency": 957,
           "status": "Operational"
         },
         {
-          "timestamp": "01:10:01 AM",
-          "latency": 986,
+          "timestamp": "01:32:00 AM",
+          "latency": 860,
           "status": "Operational"
         },
         {
-          "timestamp": "01:11:00 AM",
-          "latency": 822,
+          "timestamp": "01:33:00 AM",
+          "latency": 901,
           "status": "Operational"
         },
         {
-          "timestamp": "01:12:01 AM",
-          "latency": 1236,
+          "timestamp": "01:34:00 AM",
+          "latency": 846,
           "status": "Operational"
         },
         {
-          "timestamp": "01:13:00 AM",
-          "latency": 949,
+          "timestamp": "01:35:01 AM",
+          "latency": 1052,
           "status": "Operational"
         },
         {
-          "timestamp": "01:14:00 AM",
-          "latency": 820,
+          "timestamp": "01:36:00 AM",
+          "latency": 957,
           "status": "Operational"
         },
         {
-          "timestamp": "01:14:56 AM",
-          "latency": 1089,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:15:07 AM",
-          "latency": 8018,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:16:01 AM",
-          "latency": 1153,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:17:01 AM",
-          "latency": 998,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:18:00 AM",
-          "latency": 892,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:19:00 AM",
-          "latency": 889,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:20:01 AM",
+          "timestamp": "01:37:01 AM",
           "latency": 1308,
           "status": "Operational"
         },
         {
-          "timestamp": "01:21:01 AM",
-          "latency": 1162,
+          "timestamp": "01:38:01 AM",
+          "latency": 1073,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:39:00 AM",
+          "latency": 882,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:40:01 AM",
+          "latency": 1206,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:41:00 AM",
+          "latency": 763,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:42:00 AM",
+          "latency": 914,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:43:00 AM",
+          "latency": 970,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:44:00 AM",
+          "latency": 937,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:45:01 AM",
+          "latency": 1257,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:46:01 AM",
+          "latency": 1005,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:47:01 AM",
+          "latency": 1489,
           "status": "Operational"
         }
       ]
@@ -99,109 +114,109 @@
       "id": "1",
       "name": "GitHub Public API",
       "url": "https://api.github.com",
-      "status": "Down",
-      "latency": 136,
-      "uptime": "45.0",
+      "status": "Operational",
+      "latency": 160,
+      "uptime": "25.0",
       "history": [
         {
-          "timestamp": "01:03:00 AM",
-          "latency": 350,
-          "status": "Operational"
+          "timestamp": "01:28:42 AM",
+          "latency": 218,
+          "status": "Down"
         },
         {
-          "timestamp": "01:04:00 AM",
-          "latency": 182,
-          "status": "Operational"
+          "timestamp": "01:29:01 AM",
+          "latency": 136,
+          "status": "Down"
         },
         {
-          "timestamp": "01:05:00 AM",
-          "latency": 185,
-          "status": "Operational"
+          "timestamp": "01:30:00 AM",
+          "latency": 44,
+          "status": "Down"
         },
         {
-          "timestamp": "01:06:00 AM",
-          "latency": 316,
-          "status": "Operational"
+          "timestamp": "01:31:01 AM",
+          "latency": 142,
+          "status": "Down"
         },
         {
-          "timestamp": "01:07:00 AM",
+          "timestamp": "01:32:01 AM",
           "latency": 153,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:08:00 AM",
-          "latency": 214,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:09:01 AM",
-          "latency": 139,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:10:01 AM",
-          "latency": 148,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:11:00 AM",
-          "latency": 128,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:12:01 AM",
-          "latency": 167,
           "status": "Down"
         },
         {
-          "timestamp": "01:13:01 AM",
+          "timestamp": "01:33:01 AM",
+          "latency": 142,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:34:01 AM",
+          "latency": 154,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:35:01 AM",
+          "latency": 141,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:36:01 AM",
+          "latency": 150,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:37:01 AM",
+          "latency": 235,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:38:01 AM",
+          "latency": 223,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:39:01 AM",
+          "latency": 218,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:40:01 AM",
+          "latency": 138,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:41:00 AM",
+          "latency": 135,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:42:01 AM",
+          "latency": 145,
+          "status": "Down"
+        },
+        {
+          "timestamp": "01:43:01 AM",
+          "latency": 306,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:44:01 AM",
+          "latency": 143,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:45:01 AM",
           "latency": 151,
-          "status": "Down"
+          "status": "Operational"
         },
         {
-          "timestamp": "01:14:00 AM",
-          "latency": 147,
-          "status": "Down"
+          "timestamp": "01:46:01 AM",
+          "latency": 150,
+          "status": "Operational"
         },
         {
-          "timestamp": "01:14:56 AM",
-          "latency": 140,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:15:07 AM",
-          "latency": 185,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:16:01 AM",
-          "latency": 144,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:17:01 AM",
-          "latency": 136,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:18:01 AM",
-          "latency": 149,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:19:01 AM",
-          "latency": 162,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:20:01 AM",
-          "latency": 144,
-          "status": "Down"
-        },
-        {
-          "timestamp": "01:21:01 AM",
-          "latency": 136,
-          "status": "Down"
+          "timestamp": "01:47:01 AM",
+          "latency": 160,
+          "status": "Operational"
         }
       ]
     },
@@ -210,107 +225,107 @@
       "name": "JSONPlaceholder Test API",
       "url": "https://jsonplaceholder.typicode.com/posts/1",
       "status": "Operational",
-      "latency": 243,
+      "latency": 263,
       "uptime": "100.0",
       "history": [
         {
-          "timestamp": "01:03:00 AM",
-          "latency": 264,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:04:00 AM",
-          "latency": 264,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:05:00 AM",
-          "latency": 297,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:06:00 AM",
-          "latency": 256,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:07:00 AM",
-          "latency": 266,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:08:01 AM",
+          "timestamp": "01:28:42 AM",
           "latency": 250,
           "status": "Operational"
         },
         {
-          "timestamp": "01:09:01 AM",
-          "latency": 300,
+          "timestamp": "01:29:01 AM",
+          "latency": 262,
           "status": "Operational"
         },
         {
-          "timestamp": "01:10:01 AM",
-          "latency": 335,
+          "timestamp": "01:30:00 AM",
+          "latency": 81,
           "status": "Operational"
         },
         {
-          "timestamp": "01:11:01 AM",
-          "latency": 340,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:12:01 AM",
-          "latency": 292,
-          "status": "Operational"
-        },
-        {
-          "timestamp": "01:13:01 AM",
+          "timestamp": "01:31:01 AM",
           "latency": 251,
           "status": "Operational"
         },
         {
-          "timestamp": "01:14:01 AM",
-          "latency": 245,
+          "timestamp": "01:32:01 AM",
+          "latency": 246,
           "status": "Operational"
         },
         {
-          "timestamp": "01:14:57 AM",
-          "latency": 321,
+          "timestamp": "01:33:01 AM",
+          "latency": 284,
           "status": "Operational"
         },
         {
-          "timestamp": "01:15:07 AM",
-          "latency": 298,
+          "timestamp": "01:34:01 AM",
+          "latency": 362,
           "status": "Operational"
         },
         {
-          "timestamp": "01:16:01 AM",
-          "latency": 261,
+          "timestamp": "01:35:01 AM",
+          "latency": 257,
           "status": "Operational"
         },
         {
-          "timestamp": "01:17:01 AM",
-          "latency": 247,
+          "timestamp": "01:36:01 AM",
+          "latency": 268,
           "status": "Operational"
         },
         {
-          "timestamp": "01:18:01 AM",
+          "timestamp": "01:37:01 AM",
+          "latency": 264,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:38:01 AM",
+          "latency": 260,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:39:01 AM",
           "latency": 255,
           "status": "Operational"
         },
         {
-          "timestamp": "01:19:01 AM",
-          "latency": 251,
+          "timestamp": "01:40:01 AM",
+          "latency": 269,
           "status": "Operational"
         },
         {
-          "timestamp": "01:20:01 AM",
-          "latency": 255,
+          "timestamp": "01:41:01 AM",
+          "latency": 256,
           "status": "Operational"
         },
         {
-          "timestamp": "01:21:01 AM",
-          "latency": 243,
+          "timestamp": "01:42:01 AM",
+          "latency": 289,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:43:01 AM",
+          "latency": 279,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:44:01 AM",
+          "latency": 263,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:45:01 AM",
+          "latency": 356,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:46:01 AM",
+          "latency": 349,
+          "status": "Operational"
+        },
+        {
+          "timestamp": "01:47:01 AM",
+          "latency": 263,
           "status": "Operational"
         }
       ]
